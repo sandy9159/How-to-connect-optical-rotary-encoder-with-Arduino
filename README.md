@@ -1,0 +1,1 @@
+# How-to-connect-optical-rotary-encoder-with-Arduino
