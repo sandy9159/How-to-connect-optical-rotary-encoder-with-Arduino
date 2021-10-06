@@ -1,6 +1,6 @@
 # How-to-connect-optical-rotary-encoder-with-Arduino
 
-![image](https://user-images.githubusercontent.com/19898602/136202651-b4589f22-c9c6-4faf-8179-8318aad85e2c.png)
+![image](https://user-images.githubusercontent.com/19898602/136206124-bac6bf63-6d6e-41ad-b485-7ef627be32d6.png)
 
 
 Hello guys in this post we’ll learn how we can connect optical rotary encoder with arduino microcontroller.
